@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Momo+Trust+Display&display=swap');
+html,
+body{
+  font-family: "Momo Trust Display", sans-serif;
+   -webkit-font-smoothing: antialiased; /* For Webkit browsers (Chrome, Safari) */
+  -moz-osx-font-smoothing: grayscale; /* For Firefox on macOS */
+  font-smoothing: antialiased; /* Standard property, less widely supported */
+}
+
+@tailwind utilities;
+
+
